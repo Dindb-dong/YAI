@@ -1,0 +1,10 @@
+# Python
+*.pyc
+*.pyo
+__pycache__/
+venv/
+.env
+.DS_Store
+Standalone-DeepLearning/
+tmdb_5000_credits.csv
+tmdb_5000_movies.csv
